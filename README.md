@@ -1,3 +1,4 @@
+<p style="background-color: #ff9966">
 In this lab, I went through several steps to create an initial Fastify Node.js web server.
 
 I set up the basic structure of the web server and then initialized the lab folder as a Node.js project using Node Package Manager. 
@@ -8,3 +9,4 @@ I gained a hands-on experience in setting up a Fastify Node.js web server, utili
 The finish lab looks like this: 
 
 <img src="hello.png" alt="Image">
+
